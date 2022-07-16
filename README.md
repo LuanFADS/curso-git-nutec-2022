@@ -1,1 +1,1 @@
-# Curso de GIT - NUTEC - TESTE ATUALIZADO
+# Curso de GIT - NUTEC
